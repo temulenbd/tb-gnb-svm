@@ -1,2 +1,2 @@
 # GN-SVM Code and Exercises Repository
-This repository houses a collection of code and exercises related to GN-SVM (Generalized Nonlinear Support Vector Machine), which could serve as a valuable resource for future projects or studies. It includes practical implementations, experimental results, and various scripts that explore different aspects of GN-SVM. The contents are organized for easy reference and can be applied to future machine learning and data analysis tasks.
+This repository serves as a reference resource, providing model structures and code examples related to GN-SVM. It is continuously maintained and updated with new information to support ongoing learning and development.
